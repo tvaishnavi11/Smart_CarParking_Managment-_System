@@ -1,0 +1,71 @@
+{
+  "slots": [
+    {
+      "id": 1763909290732,
+      "slotNumber": "A1",
+      "status": "Occupied"
+    },
+    {
+      "id": 1763909300219,
+      "slotNumber": "A3",
+      "status": "booked",
+      "name": "Vaishnavi Thakare",
+      "phone": "7709031876",
+      "vehicle": "mh-27-1234",
+      "startTime": "2025-11-22T20:25",
+      "endTime": "2025-11-23T16:25",
+      "hours": 20,
+      "totalPrice": 1000
+    },
+    {
+      "id": 1763909310377,
+      "slotNumber": "A5",
+      "status": "Available"
+    },
+    {
+      "id": 1763909320471,
+      "slotNumber": "A7",
+      "status": "Available"
+    },
+    {
+      "id": 1763909359666,
+      "slotNumber": "A8",
+      "status": "Available"
+    },
+    {
+      "id": 1763909365781,
+      "slotNumber": "A9",
+      "status": "Available"
+    },
+    {
+      "id": 1763909373794,
+      "slotNumber": "A10",
+      "status": "Available"
+    },
+    {
+      "id": 1763909664804,
+      "slotNumber": "A4",
+      "status": "Available"
+    },
+    {
+      "id": 1763909669593,
+      "slotNumber": "A6",
+      "status": "Available"
+    }
+  ],
+  "bookings": [
+    {
+      "slotId": 1763909300219,
+      "slotNumber": "A3",
+      "id": 1763909719146,
+      "name": "Vaishnavi Thakare",
+      "phone": "7709031876",
+      "vehicle": "mh-27-1234",
+      "startTime": "2025-11-22T20:25",
+      "endTime": "2025-11-23T16:25",
+      "hours": 20,
+      "totalPrice": 1000,
+      "status": "booked"
+    }
+  ]
+}
